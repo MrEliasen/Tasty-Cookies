@@ -9,4 +9,4 @@ If the user accepts to store cookies, the script will then (if the google tracki
 Released under the MIT License - http://opensource.org/licenses/mit-license.php
 
 ##Contact
-You can find several to get a hold of me via http://zolidweb.com
+Twitter [@markeliasen](https://twitter.com/markeliasen)
