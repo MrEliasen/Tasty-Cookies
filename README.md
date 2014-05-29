@@ -7,6 +7,3 @@ If the user accepts to store cookies, the script will then (if the google tracki
 
 ##License
 Released under the MIT License - http://opensource.org/licenses/mit-license.php
-
-##Contact
-Twitter [@markeliasen](https://twitter.com/markeliasen)
